@@ -1,0 +1,72 @@
+[
+    {
+        "nombre_partido": "Clásico Español",
+        "equipo_local": "Real Madrid",
+        "equipo_visitante": "FC Barcelona",
+        "fecha": "2024-03-15",
+        "resultado": "2-1"
+    },
+    {
+        "nombre_partido": "Derbi de Manchester",
+        "equipo_local": "Manchester United",
+        "equipo_visitante": "Manchester City",
+        "fecha": "2024-04-10",
+        "resultado": "1-3"
+    },
+    {
+        "nombre_partido": "Superclásico Argentino",
+        "equipo_local": "Boca Juniors",
+        "equipo_visitante": "River Plate",
+        "fecha": "2024-05-22",
+        "resultado": "0-0"
+    },
+    {
+        "nombre_partido": "Derbi Madrileño",
+        "equipo_local": "Atlético Madrid",
+        "equipo_visitante": "Real Madrid",
+        "fecha": "2024-06-01",
+        "resultado": "1-2"
+    },
+    {
+        "nombre_partido": "Clásico del Sur",
+        "equipo_local": "Sevilla FC",
+        "equipo_visitante": "Real Betis",
+        "fecha": "2024-07-20",
+        "resultado": "3-2"
+    },
+    {
+        "nombre_partido": "Derbi de Milán",
+        "equipo_local": "AC Milan",
+        "equipo_visitante": "Inter de Milán",
+        "fecha": "2024-08-12",
+        "resultado": "0-1"
+    },
+    {
+        "nombre_partido": "Clásico de Italia",
+        "equipo_local": "Juventus",
+        "equipo_visitante": "AC Milan",
+        "fecha": "2024-09-03",
+        "resultado": "2-2"
+    },
+    {
+        "nombre_partido": "Clásico Londinense",
+        "equipo_local": "Chelsea",
+        "equipo_visitante": "Arsenal",
+        "fecha": "2024-10-05",
+        "resultado": "3-1"
+    },
+    {
+        "nombre_partido": "Derbi de Glasgow",
+        "equipo_local": "Celtic",
+        "equipo_visitante": "Rangers",
+        "fecha": "2024-11-17",
+        "resultado": "1-1"
+    },
+    {
+        "nombre_partido": "Derbi de Roma",
+        "equipo_local": "AS Roma",
+        "equipo_visitante": "Lazio",
+        "fecha": "2024-12-25",
+        "resultado": "2-0"
+    }
+]
