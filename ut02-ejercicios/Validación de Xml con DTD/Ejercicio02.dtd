@@ -1,0 +1,9 @@
+<!ELEMENT filmoteca (pelicula+)>
+<!ELEMENT pelicula (titulo, director, anio, duracion, genero)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ATTLIST pelicula calificacion (G | PG | PG-13 | R) #REQUIRED>
+<!ATTLIST duracion unidad CDATA #FIXED "minutos"> 

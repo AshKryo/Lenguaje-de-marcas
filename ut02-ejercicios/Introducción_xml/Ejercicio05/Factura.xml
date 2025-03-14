@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Factura>
+    <Cliente>
+        <nombre>Orlando Juan Lobán</nombre>
+        <Dirección>Avenida Rosario 2, 1 A</Dirección>
+        <NIF>390000001A</NIF>
+        <CPyC>080001, Barcelona</CPyC>
+        <Email>info@orlandojuan.es</Email>
+    </Cliente>
+    <DatosF>
+        <Fecha>17/04/2024</Fecha>
+        <Numero>2024-0001</Numero>
+        <FechaV>17/05/2024</FechaV>
+    </DatosF>
+    <Empresa>
+        <nombre>Empresa de Logistica, S.L.</nombre>
+        <Dirección>Calle San Juan de la Luz, s/n</Dirección>
+        <CIF>B12345678</CIF>
+        <CPyC>28001, Madrid</CPyC>
+        <Email>info@empresalogisticasl</Email>
+    </Empresa>
+    <InfoF>
+        <Productos1>
+            <Producto id="1">
+            <Unidades n="2">
+            <Precio U="100">
+            <Precio T="200">
+        </Productos1>
+        <Productos2>
+            <Producto id="2">
+            <Unidades n="4">
+            <Precio U="150">
+            <Precio T="600">
+        </Productos2>
+        <Productos3>
+            <Producto id="3">
+            <Unidades n="7">
+            <Precio U="93">
+            <Precio T="651">
+        </Productos3>
+    </InfoF>
+    <Pago>
+        <Base_imponible a="2">
+        <IVA porcentaje="21%">
+        <IRPF U="-15%">
+        <Total T="1.538,06">
+        <Comentarios>Pago por transferencia: ESXXXXXXXXXXX9</Comentarios>
+    <Pago>
+</factura>

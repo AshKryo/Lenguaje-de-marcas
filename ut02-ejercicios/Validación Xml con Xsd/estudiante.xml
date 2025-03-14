@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="estudiantes.xsd">
+    <estudiante>
+        <nombre>Juan</nombre>
+        <apellidos>Pérez López</apellidos>
+        <matricula>1234567</matricula>
+        <fechaInscripcion>2020-09-01</fechaInscripcion>
+        <correo>juan.perez@email.com</correo>
+        <telefonos>
+            <telefono>1234567890</telefono>
+            <telefono>9876543210</telefono>
+        </telefonos>
+        <direccion>
+            <via>calle</via>
+            <nombreVia>Gran Vía</nombreVia>
+            <codigoPostal>28001</codigoPostal>
+        </direccion>
+    </estudiante>
+</estudiantes>

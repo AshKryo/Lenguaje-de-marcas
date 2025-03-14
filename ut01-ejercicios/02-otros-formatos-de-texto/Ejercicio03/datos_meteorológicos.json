@@ -1,0 +1,72 @@
+[
+    {
+        "ciudad": "Madrid",
+        "temperatura": 22,
+        "humedad": 45,
+        "viento": 15,
+        "estado_tiempo": "Soleado"
+    },
+    {
+        "ciudad": "Barcelona",
+        "temperatura": 20,
+        "humedad": 60,
+        "viento": 10,
+        "estado_tiempo": "Parcialmente nublado"
+    },
+    {
+        "ciudad": "Sevilla",
+        "temperatura": 28,
+        "humedad": 35,
+        "viento": 20,
+        "estado_tiempo": "Soleado"
+    },
+    {
+        "ciudad": "Valencia",
+        "temperatura": 24,
+        "humedad": 50,
+        "viento": 12,
+        "estado_tiempo": "Nublado"
+    },
+    {
+        "ciudad": "Bilbao",
+        "temperatura": 18,
+        "humedad": 70,
+        "viento": 8,
+        "estado_tiempo": "Lluvia ligera"
+    },
+    {
+        "ciudad": "Málaga",
+        "temperatura": 26,
+        "humedad": 55,
+        "viento": 18,
+        "estado_tiempo": "Soleado"
+    },
+    {
+        "ciudad": "Zaragoza",
+        "temperatura": 21,
+        "humedad": 40,
+        "viento": 14,
+        "estado_tiempo": "Soleado"
+    },
+    {
+        "ciudad": "La Coruña",
+        "temperatura": 17,
+        "humedad": 75,
+        "viento": 10,
+        "estado_tiempo": "Lluvia moderada"
+    },
+    {
+        "ciudad": "Tenerife",
+        "temperatura": 25,
+        "humedad": 65,
+        "viento": 22,
+        "estado_tiempo": "Soleado"
+    },
+    {
+        "ciudad": "Palma de Mallorca",
+        "temperatura": 23,
+        "humedad": 55,
+        "viento": 16,
+        "estado_tiempo": "Parcialmente nublado"
+    }
+]

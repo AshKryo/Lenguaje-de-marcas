@@ -1,0 +1,13 @@
+<!ELEMENT factura (cabecera, items, total)>
+<!ELEMENT cabecera (fecha, cliente)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT cliente (nombre, direccion)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT items (item+)>
+<!ELEMENT item (descripcion, cantidad, precio)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT total (#PCDATA)>
+<!ATTLIST total moneda (USD | EUR) #REQUIRED>

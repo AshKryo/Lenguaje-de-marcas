@@ -1,0 +1,7 @@
+<!ELEMENT libreria (libro+)>
+<!ELEMENT libro (titulo, autor, anio, precio)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ATTLIST precio moneda (USD | EUR) #REQUIRED> <!-- Usamos #REQUIRED porque la moneda siempre debe especificarse -->

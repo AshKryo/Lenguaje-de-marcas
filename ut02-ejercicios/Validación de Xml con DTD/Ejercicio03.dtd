@@ -1,0 +1,11 @@
+<!ELEMENT personas (persona+)>
+<!ELEMENT persona (nombre, apellidos, telefono, email, direccion)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT direccion (tipo-via, nombre-via, numero)>
+<!ELEMENT tipo-via (#PCDATA)>
+<!ELEMENT nombre-via (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ATTLIST persona id ID #REQUIRED>

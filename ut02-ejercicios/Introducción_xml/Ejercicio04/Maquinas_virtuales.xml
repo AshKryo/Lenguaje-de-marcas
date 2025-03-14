@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maquinas_virtuales>
+    <maquina id="2">
+        <nombre>Que sea lo que dios quiera 2</nombre>
+        <cpu nucleos="4"/>
+        <ram unidad="MB">4096</ram>
+        <disco ruta="C:\Users\ASIR\VirtualBox VMs\Que sea lo que dios quiera 2_\Que sea lo que dios quiera 2 -disk002.vdi" tipo="vdi"/>
+        <tamaño_disco unidad="GB">40</tamaño_disco>
+        <adaptador_red modo="NAT"/>
+    </maquina>
+    
+    <maquina id="1">
+        <nombre>Que sea lo que dios quiera 1</nombre>
+        <cpu nucleos="4"/>
+        <ram unidad="MB">4096</ram>
+        <disco ruta="C:\Users\ASIR\VirtualBox VMs\Que sea lo que dios quiera 1_\Que sea lo que dios quiera 1 -disk001.vdi" tipo="vdi"/>
+        <tamaño_disco unidad="GB">40</tamaño_disco>
+        <adaptador_red modo="NAT"/>
+    </maquina>
+    
+    <maquina id="3">
+        <nombre>ubuntaso</nombre>
+        <cpu nucleos="4"/>
+        <ram>="MB">2048</ram>
+        <disco ruta="C:\Users\ASIR\VirtualBox VMs\ubuntaso\ubuntaso-disk1.vdi" tipo="vdi"/>
+        <tamaño_disco unidad="GB">40</tamaño_disco>
+        <adaptador_red modo="NAT"/>
+    </maquina>
+</maquinas_virtuales>
